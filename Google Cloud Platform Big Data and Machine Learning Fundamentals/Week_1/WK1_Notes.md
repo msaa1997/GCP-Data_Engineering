@@ -15,3 +15,10 @@
     3.  Make calls to BigQuery REST API
     4.  Command line tool
   - You need a **dataset** to hold a **table**
+
+
+  ---
+
+  ### Choosing the Right Solution Approach ###
+  #### Explore Real Customer Solution Architectures ####
+  - 
